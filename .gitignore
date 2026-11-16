@@ -1,0 +1,13 @@
+node_modules/
+.DS_Store
+artifacts/
+src/dialog-probe.tsx
+.env
+.env.*
+*.sqlite
+*.sqlite-*
+*.db
+*.log
+*.tgz
+*.zip
+__pycache__/
